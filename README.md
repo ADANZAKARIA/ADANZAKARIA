@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADANZAKARIA
 - 👀 I’m interested in technology/healthcare.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Java Algorithms and Data Structures.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me adanebrahimm@gmail.com
 - 😄 Pronouns: HE
