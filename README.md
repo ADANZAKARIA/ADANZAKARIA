@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ADANZAKARIA
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in Web/App development.
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me adanebrahimm@gmail.com
