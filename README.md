@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ADANZAKARIA
+- 👋 Hi, I’m @ADANEBRAHIM
 - 👀 I’m interested in Web/App development.
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures.
 - 💞️ I’m looking to collaborate on any projects.
